@@ -1,2 +1,2 @@
-# Scene-Text-Detection-and-Recognition
-Scene Text Detection and Recognition
+# Computer Vision
+Some technical reports on computer vision projects.
